@@ -1,5 +1,7 @@
 # Object Detection on Bottles Using the YOLO Algorithm
-This repository contains datasets related to our paper "Object Detection on Bottles Using the YOLO Algorithm." The model was tested using a novel set of bottle images captured using a mobile phone. The dataset is located in the RAW folder. Furthermore, the result of the model can be seen in the YOLO folders.
+This repository contains datasets related to our paper [Object Detection on Bottles Using the YOLO Algorithm](https://ieeexplore.ieee.org/document/10031554).
+The model was tested using a novel set of bottle images captured using a mobile phone. The dataset is located in the RAW folder.
+Furthermore, the result of the model can be seen in the YOLO folders.
 
 ##  Citation
 If you use this dataset in a scientific publication, we would appreciate using the following citations:
