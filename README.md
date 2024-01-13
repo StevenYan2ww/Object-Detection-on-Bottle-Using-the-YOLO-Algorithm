@@ -1,10 +1,15 @@
 # Object Detection on Bottles Using the YOLO Algorithm
-This repository contains dataset that are related to our paper "Object Detection on Bottles Using the YOLO Algorithm".
-The model testing was conducted using a novel set of bottle images captured using a mobile phone. 
+This repository contains datasets related to our paper [Object Detection on Bottles Using the YOLO Algorithm](https://ieeexplore.ieee.org/document/10031554).
+The model was tested using a novel set of bottle images captured using a mobile phone. The dataset is located in the RAW folder.
+Furthermore, the result of the model can be seen in the YOLO folders.
 
-## BibTeX Citation
+##  Citation
 If you use this dataset in a scientific publication, we would appreciate using the following citations:
 
+### Plain Text
+F. S. P. Akbar, S. Y. P. Ginting, G. C. Wu, S. Achmad and R. Sutoyo, "Object Detection on Bottles Using the YOLO Algorithm," 2022 4th International Conference on Cybernetics and Intelligent System (ICORIS), Prapat, Indonesia, 2022, pp. 1-5, doi: 10.1109/ICORIS56080.2022.10031554.
+
+### BibTeX
 ```
 @INPROCEEDINGS{10031554,
   author={Akbar, Fathi Sei Pahangai and Ginting, Steven Yanuar Prasetyo and Wu, Giovanna Cheryl and Achmad, Said and Sutoyo, Rhio},
